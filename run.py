@@ -47,7 +47,7 @@ def load_list(driver, wait, num):
 
     current_count = 0
 
-    while current_count < num:
+    while current_count < num - 1:
         wait.until(presence_of_element_located((By.XPATH, elements["list"])))
         current_list = driver.find_elements_by_xpath(elements["list"])
 
