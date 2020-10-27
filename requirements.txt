@@ -6,7 +6,7 @@ cffi==1.13.0
 chardet==3.0.4
 conda==4.8.1
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 idna==2.8
 isort==4.3.21
 lazy-object-proxy==1.4.3
