@@ -2,15 +2,16 @@
   "username": "",
   "password": "",
   "elements": {
-    "loginInput": "//body/div[@id='react-root']/section/main/article/div[2]/div/div/form/div[2]/div/label/input",
-    "passwordInput": "//body/div[@id='react-root']/section/main/article/div[2]/div/div/form/div[3]/div/label/input",
-    "loginButton": "//body/div[@id='react-root']/section/main/article/div[2]/div/div/form/div[4]/button",
-    "profileLink": "//body/div[@id='react-root']/section/main/section/div[3]/div/div/div[2]/div/a",
-    "popUp": "//body/div[4]/div/div/div[3]/button[2]",
-    "followersLink": "//body/div[@id='react-root']/section/main//header/section/ul/li[2]/a",
-    "followingLink": "//body/div[@id='react-root']/section/main//header/section/ul/li[3]/a",
-    "followersNum": "//body/div[@id='react-root']/section/main//header/section/ul/li[2]/a/span",
-    "followingNum": "//body/div[@id='react-root']/section/main//header/section/ul/li[3]/a/span",
-    "list": "//body/div[4]/div/div[2]/ul/div/li"
+    "loginInput": "/html/body/div[1]/section/main/article/div[2]/div[1]/div[2]/form/div/div[1]/div/label/input",
+    "passwordInput": "/html/body/div[1]/section/main/article/div[2]/div[1]/div[2]/form/div/div[2]/div/label/input",
+    "loginButton": "/html/body/div[1]/section/main/article/div[2]/div[1]/div[2]/form/div/div[3]/button",
+    "popUp": "/html/body/div[1]/section/main/div/div/div/div/button",
+    "popUp2": "/html/body/div[1]/div/div[1]/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div[3]/button[2]",
+    "followersLink": "/html/body/div[1]/div/div[1]/div/div[1]/div/div/div[1]/div[1]/section/main/div/header/section/ul/li[2]/a",
+    "followingLink": "/html/body/div[1]/div/div[1]/div/div[1]/div/div/div[1]/div[1]/section/main/div/header/section/ul/li[3]/a",
+    "followersNum": "/html/body/div[1]/div/div[1]/div/div[1]/div/div/div[1]/div[1]/section/main/div/header/section/ul/li[2]/a/div/span",
+    "followingNum": "/html/body/div[1]/div/div[1]/div/div[1]/div/div/div[1]/div[1]/section/main/div/header/section/ul/li[3]/a/div/span",
+    "followersList": "/html/body/div[1]/div/div[1]/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div[2]/ul/div/li",
+    "followingList": "/html/body/div[1]/div/div[1]/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div[3]/ul/div/li"
   }
 }
