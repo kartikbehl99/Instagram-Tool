@@ -9,7 +9,7 @@ h11==0.13.0
 idna==3.3
 numpy==1.22.0
 outcome==1.2.0
-protobuf==3.19.1
+protobuf==3.19.5
 pycparser==2.21
 pyOpenSSL==22.0.0
 PySocks==1.7.1
